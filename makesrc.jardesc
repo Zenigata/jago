@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/java/java/Download/jagosrc.zip"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/JagoClient/makesrc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.util.ftp"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.igs.games"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.igs.connection"/>
+        <file path="/JagoClient/.project"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.datagram"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.partner"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.foreign"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.dialogs"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.util.regexp"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.util.list"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.util"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.util.xml"/>
+        <file path="/JagoClient/makesrc.jardesc"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.sound"/>
+        <file path="/JagoClient/.partner.cfg"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.util.mail"/>
+        <file path="/JagoClient/.server.cfg"/>
+        <file path="/JagoClient/filter.cfg"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.gui"/>
+        <file path="/JagoClient/.classpath"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.gifs"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.util.sort"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.dialogs"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.helptexts"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.mail"/>
+        <file path="/JagoClient/jagoclient.jardesc"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.lister"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.igs.who"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.au"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.board"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.gmp"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.partner.partner"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.gui"/>
+        <file path="/JagoClient/igs.protocol.txt"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.igs"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.viewer"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.util.sound"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;jagoclient.icons"/>
+        <javaElement handleIdentifier="=JagoClient/&lt;rene.util.parser"/>
+    </selectedElements>
+</jardesc>
